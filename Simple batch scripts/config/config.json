@@ -1,0 +1,22 @@
+{
+    "paths": {
+      "logFolder": "/bin/executable/Logs/",
+      "testFilesFolder": "/testing/files/",
+      "applicationFilesFolder": "/bin/executable/"
+    },
+    "settings": {
+      "outputFolder": ".\\Output",
+      "maxAttempts": 3
+    },
+    "options": {
+      "verbose": true,
+      "debugMode": false
+    },
+    "files": {
+      "testBatch": "/testing/checkset.bat",
+      "executable": "/bin/configuration.exe"
+    },
+    "logs": {
+      "logFile": "/bin/Logs/*.log"
+    }
+  }
